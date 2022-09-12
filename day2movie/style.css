@@ -4,15 +4,16 @@
 }
 
 :root {
-    --primary-color: mistyrose;
-    --secondary-color: rgb(235, 70, 98);
-    --text-color: rgba(0, 0, 0);
+    --primary-color: #22254b;
+    --secondary-color: #373b69;
+    
 }
 
 body {
     font-family: 'Monteserrat', sans-serif;
     margin: 0;
     background-color: var(--primary-color);
+
 }
 
 header {
@@ -20,6 +21,7 @@ header {
     display: flex;
     justify-content: flex-end;
     background-color: var(--secondary-color);
+
 }
 
 .search {
@@ -29,12 +31,13 @@ header {
     font-family: inherit;
     font-size: 1rem;
     padding: 0.5rem 1rem;
-    color: var(--text-color);
+    color: white;
+
 }
 
 .search::placeholder {
-    color: var(--text-color);
-    font-style: italic;
+    color: #7378c5;
+
 }
 
 .search:focus {
@@ -48,6 +51,7 @@ main {
     flex-wrap: wrap;
     justify-content: space-evenly;
     cursor: pointer;
+
 }
 
 .movie {
@@ -58,23 +62,27 @@ main {
     position: relative;
     overflow: hidden;
     border-radius: 3px;
+
 }
 
 .movie img {
     width: 100%
+
 }
 
 .movie-info {
-    color: var(--text-color);
+    color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0.5rem 1rem 1rem;
     letter-spacing: 0.5px;
+
 }
 
 .movie-info h3 {
     margin-top: 0;
+
 }
 
 .movie-info span {
@@ -82,14 +90,17 @@ main {
     padding: 0.25rem 0.5rem;
     border-radius: 3px;
     font-weight: bold;
+
 }
 
 .movie-info span.green {
     color: lightgreen;
+
 }
 
 .movie-info span.orange {
     color: orange;
+
 }
 
 .movie-info span.red {
@@ -105,10 +116,12 @@ main {
     bottom: 0;
     right: 0;
     max-height: 100%;
-    transform: translateY(101%);
+    transform: translateY(110%);
     transition: transform 0.5s ease;
+
 }
 
 .movie:hover .overview {
     transform: translateY(0);
+
 }
