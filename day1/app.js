@@ -82,11 +82,12 @@ function setTime() {
     dateEl.innerHTML = `${days[day]}, ${months[month]} <span class="circle">${date}</span>`;
 }
 
+// processing a function which allows you to convert a number that falls within a range of numbers into a number within a different range; this way i can handle the needle hour/min/sec.
 // StackOverflow https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
 const scale = (num, in_min, in_max, out_min, out_max) => {
     return ((num - in_min) * (out_max - out_min)) / (in_max - in_min) + out_min;
 };
 
 setTime();
-
+// every 1000ms (= 1sec)
 setInterval(setTime, 1000);

@@ -84,7 +84,7 @@ body {
 }
 
 .needle.hour {
-    /* Property that will hanle the position of the hour needle */
+    /* Property that will handle the position of the hour needle */
     transform: translate(-50%, -100%) rotate(0deg);
 }
 
