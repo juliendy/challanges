@@ -8,4 +8,4 @@ Preview:<br>![](day1/clock-day1.gif)<br>
 Preview:<br>![](day2/slider-day2.gif)<br>
 
 ## Day 2.5 (extra): List of movies (API, DOM manupilation etc.,)
-Preview:<br>![](day3/)<br>
+Preview:<br>![](day2movie/movie-day2.gif)<br>
