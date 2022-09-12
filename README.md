@@ -4,4 +4,7 @@
 Preview:<br>![](day1/clock-day1.gif)<br>
 
 ## Day 2: Image Slider
+Preview:<br>![](day2/slider-day2.gif)<br>
+
+
 ## Day 2.5 (extra): List of movies (API, DOM manupilation etc.,)
