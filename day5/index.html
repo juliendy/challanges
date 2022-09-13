@@ -1,65 +1,79 @@
 <!DOCTYPE html>
+
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+            integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+            crossorigin="anonymous"
+        />
+        <link rel="stylesheet" href="style.css" />
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Scroller</title>
-</head>
+        <title>Rotating Website</title>
+    </head>
 
-<body>
-    <h1>Scroll to see the animation</h1>
-    <p class="desc">Refresh to update the colors</p>
-    <div class="box">
-        <h2>Julien</h2>
-    </div>
-    <div class="box">
-        <h2>Junior Frontend Developer</h2>
-    </div>
-    <div class="box">
-        <h2>Designing beautiful UIs</h2>
-    </div>
-    <div class="box">
-        <h2>JavaScript</h2>
-    </div>
-    <div class="box">
-        <h2>Practicing TypeScript</h2>
-    </div>
+    <body>
+        <div class="container">
+            <div class="circle-container">
+                <div class="circle">
+                    <button id="close">
+                        <i class="fas fa-times"></i>
+                    </button>
 
-    <div class="box">
-        <h2>React</h2>
-    </div>
-    <div class="box">
-        <h2>Vue</h2>
-    </div>
-    <div class="box">
-        <h2>Open Source</h2>
-    </div>
-    <div class="box">
-        <h2>SCSS</h2>
-    </div>
-    <div class="box">
-        <h2>Accessibility</h2>
-    </div>
-    <div class="box">
-        <h2>Experience</h2>
-    </div>
-    <div class="box">
-        <h2>Books</h2>
-    </div>
-    <div class="box">
-        <h2>Hilary Mantel - Beyond Black</h2>
-    </div>
-    <div class="box">
-        <h2>Twitter</h2>
-    </div>
-    <div class="box">
-        <h2>LinkedIn</h2>
-    </div>
+                    <button id="open">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
 
-    <script src="script.js"></script>
-</body>
+            <div class="content">
+                <h1>Rotating Navigation - Sample website!</h1>
 
+                <p class="desc">
+                    Click on the &nbsp;<i class="fas fa-bars"></i> &nbsp; to
+                    transform!!
+                </p>
+
+                <small>Developer_Name</small>
+
+                <h3>Drones👾</h3>
+
+                <img
+                    src="https://c4.wallpaperflare.com/wallpaper/377/796/868/birds-kingfisher-bird-diving-wallpaper-preview.jpg"
+                    alt="bird diving"
+                />
+
+                <p>
+                    Hey Everyone, I'm Irina! Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam saepe sit hic? Sequi qui vero aperiam obcaecati culpa debitis velit? Id vero dicta debitis, quibusdam laboriosam repellendus dignissimos animi dolore?
+                </p>
+            </div>
+        </div>
+
+        <nav>
+            <ul>
+                <li>
+                    <i class="fas fa-home"></i>
+
+                    <a href="#">Home</a>
+                </li>
+
+                <li>
+                    <i class="fas fa-user-alt"></i>
+
+                    <a href="#">About</a>
+                </li>
+
+                <li>
+                    <i class="fas fa-envelope"></i>
+
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </nav>
+
+        <script src="app.js"></script>
+    </body>
 </html>

@@ -18,3 +18,6 @@ Preview:<br>![](day3/faq-day3.gif)<br>
 
 ## Day 4: Expanding Panes with Birds
 Preview:<br>![](day4/day4-birds.gif)<br>
+
+## Day 5: Rotating Hambuerger with Sample Website
+Preview:<br>![](day5/rotating-websiteday5.gif)<br>
