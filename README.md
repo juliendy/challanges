@@ -25,5 +25,8 @@ Preview:<br>![](day5/rotating-websiteday5.gif)<br>
 ## Day 6: Groot 3-D rotating boxes
 Preview:<br>![](day6/groot-day6.gif)<br>
 
+## Day 6: Vertical Slider
+Preview: Updated soon...
+
 ## Day 7: CSS only challanges
-Updated soon
+Updated soon...
