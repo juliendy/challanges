@@ -1,5 +1,5 @@
 # Daily Challenges to keep practicing coding! #
-- The idea behind this is to make small but challanging projects everyday to keep up with practicing coding. The challanges in the later stages will get exponentially bigger, and branch out to working with framworks such as React, Vue and Angular, and written entirely in TypeScript or JavaScript. In the future, I am planning on teaching myself one variant of the C languages (C++ / C#).
+- The idea behind this is to make small but challanging projects everyday to keep up with practicing coding. The challanges in the later stages will get exponentially bigger, and branch out to working with framworks such as React, Vue and Angular, and written entirely in TypeScript or JavaScript.
 
 ## Technologies I used and practiced
 Updated soon...
@@ -21,3 +21,9 @@ Preview:<br>![](day4/day4-birds.gif)<br>
 
 ## Day 5: Rotating Hambuerger with Sample Website
 Preview:<br>![](day5/rotating-websiteday5.gif)<br>
+
+## Day 6: Groot 3-D rotating boxes
+Preview:<br>![](day6/groot-day6.gif)<br>
+
+## Day 7: CSS only challanges
+Updated soon

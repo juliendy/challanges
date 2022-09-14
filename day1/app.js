@@ -43,6 +43,7 @@ toggle.addEventListener("click", (e) => {
     }
 });
 
+// defining the default settings of a clock
 function setTime() {
     const time = new Date();
     const month = time.getMonth();
