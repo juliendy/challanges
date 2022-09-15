@@ -28,5 +28,5 @@ Preview:<br>![](day6/groot-day6.gif)<br>
 ## Day 6: Double Slider
 Preview:<br>![](day6doubleslider/doubleslider-day6.gif)<br>
 
-## Day 7: CSS only challanges
+## Day 7: Blog App
 Updated soon...
