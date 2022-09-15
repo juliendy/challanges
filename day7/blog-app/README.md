@@ -10,11 +10,6 @@
 ![image](https://user-images.githubusercontent.com/78724676/190141189-d7d86b2c-b4dd-4555-922d-b80e871fc053.png)
 
 ## To run locally
- 1. Clone it via link https://github.com/deeqakkk/blog-website-redux.git
- 2. cd blog-website-redux
- 3. npm i
- 4. npm start 🎉
- 
-### Server is live💯
- 
-## Thank You!!!
+ 1. npm i
+ 2. npm start 🎉
+
