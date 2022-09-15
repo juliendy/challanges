@@ -1,4 +1,4 @@
-# blog-website-redux #
+# Blog App! #
 
 ## Screenshots
 
