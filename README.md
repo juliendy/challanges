@@ -28,5 +28,8 @@ Preview:<br>![](day6/groot-day6.gif)<br>
 ## Day 6: Double Slider
 Preview:<br>![](day6doubleslider/doubleslider-day6.gif)<br>
 
-## Day 7: Blog App
+## Day 7: JavaScript Blog App with React and Redux
+Updated soon...
+
+## Day 8: CSS only challange
 Updated soon...
