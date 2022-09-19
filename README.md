@@ -29,9 +29,7 @@ Preview:<br>![](day6/groot-day6.gif)<br>
 Preview:<br>![](day6doubleslider/doubleslider-day6.gif)<br>
 
 ## Day 7: JavaScript Blog App with React and Redux
-Preview:<br>![](https://user-images.githubusercontent.com/78724676/190140609-0b21f6f7-845a-4956-a92f-ec51a18a959f.png)<br>
-![](https://user-images.githubusercontent.com/78724676/190141115-bc9df1aa-4284-4d3e-831c-1331b7766b92.png)<br>
-![](https://user-images.githubusercontent.com/78724676/190141189-d7d86b2c-b4dd-4555-922d-b80e871fc053.png)
+Preview:<br>![](day7/blog-app/public/blogapp-day7.gif)<br>
 
 ## Day 8: CSS only challange
 Updated soon...

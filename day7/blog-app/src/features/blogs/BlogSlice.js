@@ -26,7 +26,7 @@ const initialState = [
         id: "4",
         title: "Fourth Post",
         content:
-            "Software development engineers in India, were excited to be at your campus in -person👋.Speak to us to learn how you can build your career a ",
+            "Software development engineers around the world, were excited to be at your campus in -person👋.Speak to us to learn how you can build your career a ",
         date: sub(new Date(), { minutes: 41 }).toISOString(),
     },
     {

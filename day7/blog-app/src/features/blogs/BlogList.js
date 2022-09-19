@@ -49,16 +49,16 @@ const BlogList = () => {
         ));
 
     return (
-        <div className="blogs" style={{ display: "flex", flexWrap: "wrap" }}>
+        <div className="blogs" style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", alignItems: "center" }}>
             {Blogs.length ? (
                 renderCard()
             ) : (
                 <Alert variant="danger">
                     <Alert.Heading>
-                        Oh snap!You don 't have any blog!
+                        There are not any posts!
                     </Alert.Heading>
                     <p>
-                        You can easily add one, by clicking on the "Add Blog"
+                        You can easily add one by clicking on the "Add Blog"
                         button on the top right.
                     </p>
                 </Alert>
