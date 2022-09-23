@@ -33,3 +33,6 @@ Preview:<br>![](day7/blog-app/public/blogapp-day7.gif)<br>
 
 ## Day 8: CSS only challange
 Updated soon...
+
+## Day 9: Background color
+Updated soon...
